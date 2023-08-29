@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @HemZen
+- 👀 I’m interested in Smart Contract development (Solidiy) and Blockchain protocols in general.
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on Dapps
+- 📫 How to reach me: uhemadevi1927@gmail.com or Twitter : @HemaDev13699592
+- ✨ I enjoy backpacking and cooking Indian delicacies
